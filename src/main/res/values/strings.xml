@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">BasePackageLib</string>
+    <string name="open">menu open</string>
+    <string name="close">menu close</string>
+
+</resources>
